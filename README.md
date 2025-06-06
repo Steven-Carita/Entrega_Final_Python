@@ -13,8 +13,8 @@ DESCRIPCION: Este proyecto es un gestor de productos desarrollado en Python para
 - Salir del sistema.
 
 Se utilizo **Python** para el desarrollo del proyecto.
+
 Se utilizo **Visual Studio Code** como IDE
 
-AGRADECIMIENTOS: Agradezco a la profesora Laura Avalle por compartir sus conocimientos y por la buena actitud. De igualmanera, agradezco a mi tutor Joaquín Viretti, por la predispocicon, compromiso y el acompañamiento en el transcurso de la cursada.
 
 ¡ Muchisimas Gracias ! 
