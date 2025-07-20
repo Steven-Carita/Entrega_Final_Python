@@ -1,4 +1,5 @@
-![Captura de pantalla 2025-06-06 010017](https://github.com/user-attachments/assets/a462f8f4-fb2e-4390-98e4-06f9130313a1)
+
+![Captura de pantalla 2025-06-06 010017 (2)](https://github.com/user-attachments/assets/ab6f8c4d-5f91-49f4-a3cb-cf6429117150)
 
 BIENVENIDO AL REPOSITORIO DE STEVEN CARITA, ALUMNO DE TALENTO TECH.
 
