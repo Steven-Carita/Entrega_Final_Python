@@ -11,11 +11,17 @@ Se enfoca principalmente en el manejo de componentes informáticos, pero puede a
 Funcionalidades principales:
 
 ✔ Agregar productos: nombre, descripción, categoría, precio y cantidad.
+
 ✔ Visualizar todos los productos registrados.
+
 ✔ Buscar productos por ID, nombre o categoría.
+
 ✔ Actualizar datos de un producto específico.
+
 ✔ Eliminar productos por ID.
+
 ✔ Generar un reporte de bajo stock (productos con cantidad inferior a un límite definido por el usuario).
+
 ✔ Colores en consola para mejorar la visualización, gracias a la librería colorama.
 
 Tecnologías utilizadas y herramientas utilizadas:
